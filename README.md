@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cookiesinmyworld
+- 👋 Hi, I’m @cookiesinmyworld, you can call me Cookie!
 - 👀 I’m interested in ... Game programming.
 - 🌱 I’m currently learning ... JavaScript.
 - 💞️ I’m looking to collaborate on ... Nothing (for now).
